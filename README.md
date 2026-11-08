@@ -35,6 +35,3 @@ Through this project, I gained practical experience in data manipulation, explor
 
 ## Author
 Sarah Lucky
-Sarah Lucky
-
-Aspiring Data Analyst | Business Innovation Technology Management Student
